@@ -14,8 +14,16 @@ public:
 	DoublyLinkedList(Type);
 	DoublyLinkedList(Type[], int);
 
+	void insertFront(Type);
+	void insertBack(Type);
+	void insertAt(Type, int);
+	void replace(Type, int);
+	void deleteValue(Type);
+
 	void print();
 	void printReverse();
+
+	void clear();
 };
 
 #endif
