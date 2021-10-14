@@ -13,4 +13,3 @@ Operations
   - Print
   - Print in Reverse
   
-  Property of Garrison Travis
